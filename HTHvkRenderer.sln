@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HTHvkRenderer", "HTHvkRenderer.vcxproj", "{F319EC52-78FB-48F2-827D-EE2052BB62F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Debug|x64.ActiveCfg = Debug|x64
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Debug|x64.Build.0 = Debug|x64
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Debug|x86.Build.0 = Debug|Win32
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Release|x64.ActiveCfg = Release|x64
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Release|x64.Build.0 = Release|x64
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Release|x86.ActiveCfg = Release|Win32
+		{F319EC52-78FB-48F2-827D-EE2052BB62F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2655C683-8E8F-4B31-B630-B92C71662608}
+	EndGlobalSection
+EndGlobal
